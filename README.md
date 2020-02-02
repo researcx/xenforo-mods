@@ -33,6 +33,8 @@ Highlights bad grammar and misspellings as red, reduces points for each mistake 
 
 Appends "**USER WAS BANNED FOR THIS POST (REASON)**" and/or  "**USER WAS WARNED FOR THIS POST (REASON)**" at the bottom of the users' post.
 
+<a href="screenshots/imageboardban1.png" target="_blank"><img src="screenshots/imageboardban1.png" alt="[IMG]" width="200"/></a>  
+
 ## SS13/BYOND API
 
 **Features:**
